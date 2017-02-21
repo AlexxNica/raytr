@@ -1,0 +1,5 @@
+[package]
+
+name = "raytr"
+version = "0.0.1"
+authors = [ "Davide Italiano <dccitaliano@gmail.com>" ]
